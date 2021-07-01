@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "basiccorepgrms/1.0.0": {
+        "runtime": {
+          "basiccorepgrms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "basiccorepgrms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

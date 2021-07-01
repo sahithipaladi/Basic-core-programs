@@ -1,0 +1,13 @@
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\obj\Debug\netcoreapp3.1\basiccorepgrms.csproj.AssemblyReference.cache
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\obj\Debug\netcoreapp3.1\basiccorepgrms.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\obj\Debug\netcoreapp3.1\basiccorepgrms.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\obj\Debug\netcoreapp3.1\basiccorepgrms.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\bin\Debug\netcoreapp3.1\basiccorepgrms.exe
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\bin\Debug\netcoreapp3.1\basiccorepgrms.deps.json
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\bin\Debug\netcoreapp3.1\basiccorepgrms.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\bin\Debug\netcoreapp3.1\basiccorepgrms.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\bin\Debug\netcoreapp3.1\basiccorepgrms.dll
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\bin\Debug\netcoreapp3.1\basiccorepgrms.pdb
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\obj\Debug\netcoreapp3.1\basiccorepgrms.dll
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\obj\Debug\netcoreapp3.1\basiccorepgrms.pdb
+C:\Users\Sahithi.P\source\repos\basiccorepgrms\basiccorepgrms\obj\Debug\netcoreapp3.1\basiccorepgrms.genruntimeconfig.cache
